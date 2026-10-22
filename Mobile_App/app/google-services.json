@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321308545469",
+    "project_id": "smart-med-alert",
+    "storage_bucket": "smart-med-alert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321308545469:android:990834246913f888e342d4",
+        "android_client_info": {
+          "package_name": "com.smwalid.smartmedalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHirXAK-A8F8ujDoSZ8QnOPwHVlFrT_Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
